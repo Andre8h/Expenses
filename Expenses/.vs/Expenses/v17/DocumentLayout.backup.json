@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Expensives\\Expenses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|d:\\projects\\expensives\\expenses\\expenses\\controllers\\paymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|solutionrelative:expenses\\controllers\\paymentmethodscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|d:\\projects\\expensives\\expenses\\expenses\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|solutionrelative:expenses\\controllers\\expensescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|d:\\projects\\expensives\\expenses\\expenses\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|solutionrelative:expenses\\models\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|d:\\projects\\expensives\\expenses\\expenses\\models\\expensesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|solutionrelative:expenses\\models\\expensesdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|d:\\projects\\expensives\\expenses\\expenses\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|solutionrelative:expenses\\models\\categories.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|d:\\projects\\expensives\\expenses\\expenses\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|solutionrelative:expenses\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|d:\\projects\\expensives\\expenses\\expenses\\models\\paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|solutionrelative:expenses\\models\\paymentmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|d:\\projects\\expensives\\expenses\\expenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71AD84F7-2635-4AE0-89ED-101342525856}|Expenses\\Expenses.csproj|solutionrelative:expenses\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaymentMethodsController.cs",
+              "DocumentMoniker": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Controllers\\PaymentMethodsController.cs",
+              "RelativeDocumentMoniker": "Expenses\\Controllers\\PaymentMethodsController.cs",
+              "ToolTip": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Controllers\\PaymentMethodsController.cs",
+              "RelativeToolTip": "Expenses\\Controllers\\PaymentMethodsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:42:24.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExpensesController.cs",
+              "DocumentMoniker": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Controllers\\ExpensesController.cs",
+              "RelativeDocumentMoniker": "Expenses\\Controllers\\ExpensesController.cs",
+              "ToolTip": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Controllers\\ExpensesController.cs",
+              "RelativeToolTip": "Expenses\\Controllers\\ExpensesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:41:44.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Expenses\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Expenses\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:31:28.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "expensesDbcontext.cs",
+              "DocumentMoniker": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Models\\expensesDbcontext.cs",
+              "RelativeDocumentMoniker": "Expenses\\Models\\expensesDbcontext.cs",
+              "ToolTip": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Models\\expensesDbcontext.cs",
+              "RelativeToolTip": "Expenses\\Models\\expensesDbcontext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:30:41.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "categories.cs",
+              "DocumentMoniker": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Models\\categories.cs",
+              "RelativeDocumentMoniker": "Expenses\\Models\\categories.cs",
+              "ToolTip": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Models\\categories.cs",
+              "RelativeToolTip": "Expenses\\Models\\categories.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:29:18.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Models\\Expense.cs",
+              "RelativeDocumentMoniker": "Expenses\\Models\\Expense.cs",
+              "ToolTip": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Models\\Expense.cs",
+              "RelativeToolTip": "Expenses\\Models\\Expense.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T01:24:51.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaymentMethods.cs",
+              "DocumentMoniker": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Models\\PaymentMethods.cs",
+              "RelativeDocumentMoniker": "Expenses\\Models\\PaymentMethods.cs",
+              "ToolTip": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Models\\PaymentMethods.cs",
+              "RelativeToolTip": "Expenses\\Models\\PaymentMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T21:05:24.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Program.cs",
+              "RelativeDocumentMoniker": "Expenses\\Program.cs",
+              "ToolTip": "D:\\Projects\\Expensives\\Expenses\\Expenses\\Program.cs",
+              "RelativeToolTip": "Expenses\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:49:01.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
